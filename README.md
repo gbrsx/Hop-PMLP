@@ -17,16 +17,15 @@ Hop-PMLP is a hybrid deep learning model that **combines Propagational Multi-Lay
 ---
 
 ## Table of Contents
-- [🚀 Overview](#-overview)
-- [📌 Motivation](#-motivation)
-- [📄 Based on Previous Work](#-based-on-previous-work)
-- [🛠️ Code and Implementation](#️-code-and-implementation)
-- [📦 Installation](#-installation)
-- [📝 Usage](#-usage)
-- [📊 Datasets](#-datasets)
-- [📈 Results](#-results)
-- [⚠️ Limitations & Future Work](#️-limitations--future-work)
-- [📖 Citation](#-citation)
+- [Overview](#-overview)
+- [Motivation](#-motivation)
+- [Based on Previous Work](#-based-on-previous-work)
+- [Code and Implementation](#️-code-and-implementation)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Datasets](#-datasets)
+- [Results](#-results)
+- [Limitations & Future Work](#️-limitations--future-work)
 
 ---
 
